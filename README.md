@@ -42,9 +42,6 @@ Below is the verification output from running the validation suite (`src/test_he
 
 ✅ All incident evaluations complete! Local validation successful.
 
-### Evaluation Summary
-
-✅ All incident evaluations complete! Local validation successful.
 
 ### Evaluation Summary
 
