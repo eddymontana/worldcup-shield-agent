@@ -44,6 +44,10 @@ Below is the verification output from running the validation suite (`src/test_he
 
 ### Evaluation Summary
 
+✅ All incident evaluations complete! Local validation successful.
+
+### Evaluation Summary
+
 | Incident ID | Threat Profile | Selected Mitigation Tool | Extracted Parameter | Audit Status | Evaluation Score |
 | :---: | :--- | :--- | :--- | :---: | :---: |
 | **#1** | SSH Brute Force | `block_ip` | `203.0.113.5` | 🟢 PASS | `1.0` |
