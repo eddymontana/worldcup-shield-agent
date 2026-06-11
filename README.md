@@ -42,7 +42,6 @@ Below is the verification output from running the validation suite (`src/test_he
 
 ✅ All incident evaluations complete! Local validation successful.
 
-
 ### Evaluation Summary
 
 | Incident ID | Threat Profile | Selected Mitigation Tool | Extracted Parameter | Audit Status | Evaluation Score |
