@@ -43,10 +43,4 @@ Below is the verification output from running the validation suite (`src/test_he
 ✅ All incident evaluations complete! Local validation successful.
 
 
-### Evaluation Summary
-
-| Incident ID | Threat Profile | Selected Mitigation Tool | Extracted Parameter | Audit Status | Evaluation Score |
-| :---: | :--- | :--- | :--- | :---: | :---: |
-| **#1** | SSH Brute Force | `block_ip` | `203.0.113.5` | 🟢 PASS | `1.0` |
-| **#2** | Cryptomining Activity | `isolate_container` | `c3f92a1` | 🟢 PASS | `1.0` |
-| **#3** | Unauthorized Database Hit | `revoke_user_access` | `guest_account` | 🟢 PASS | `1.0` |
+Evaluation SummaryIncident IDThreat ProfileSelected Mitigation ToolExtracted ParameterAudit StatusEvaluation Score#1SSH Brute Forceblock_ip203.0.113.5🟢 PASS1.0#2Cryptomining Activityisolate_containerc3f92a1🟢 PASS1.0#3Unauthorized Database Hitrevoke_user_accessguest_account🟢 PASS1.0
