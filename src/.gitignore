@@ -1,0 +1,33 @@
+# === Security & Credentials ===
+.env
+.env.*
+*.pem
+*.key
+
+# === Python Environment & Caches ===
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.python-version
+
+# === Virtual Environments ===
+.venv/
+venv/
+ENV/
+env/
+
+# === IDE & Editor Configurations ===
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# === OS Specific Files ===
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
